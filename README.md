@@ -23,3 +23,6 @@ My baseline had 55% accuracy, and my best model could reach 93% accuracy.
 
 ## Future Plans
 I would like to be able to count the number of burials (at least with 80% accuracy), measure them try to use this model on high resolution Satelite Pictures.
+
+## F
+urther information about self-acquired data: https://medium.com/@mina_77131/an-example-of-archaeological-drone-surveying-b7e2a13f657
